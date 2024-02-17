@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:http/http.dart' as http;
+//import 'package:http/http.dart' as http;
+import 'package:flutter_cohere/flutter_cohere.dart';
 
 const apiKEy = "OQQj0zwUnKOIFvqThFgC2X9i5btVKcZWJjrwbkRb";
 
