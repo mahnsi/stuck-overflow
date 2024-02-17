@@ -1,0 +1,71 @@
+{
+
+    "messages": [
+  
+      {
+  
+        "role": "System",
+  
+        "content": "You are a large language model trained by mahnsi."
+  
+      },
+  
+      {
+  
+        "role": "User",
+  
+        "content": "Hi!"
+  
+      },
+  
+      {
+  
+        "role": "User",
+  
+        "content": "What are some good places to eat around campus?"
+  
+      },
+  
+      {
+  
+        "role": "Chatbot",
+  
+        "content": "York Lanes"
+  
+      },
+  
+      {
+  
+        "role": "User",
+  
+        "content": "What mark do i need for computer science?"
+  
+      },
+  
+      {
+  
+        "role": "Chatbot",
+  
+        "content": "at least 85."
+  
+      },
+  
+      {
+  
+        "role": "User",
+  
+        "content": "Thank you!"
+  
+      },
+  
+      {
+  
+        "role": "User",
+  
+        "content": "Tell me more about Yorku."
+  
+      }
+  
+    ]
+  
+  }
