@@ -2,8 +2,7 @@ body{
     padding:50px 10px;
     background-color:black;
     width:100%;
-    max-width: 1000px;
-   
+    max-width: -1000px;
     margin: auto;
     margin: 0px;
     padding: 0px;
